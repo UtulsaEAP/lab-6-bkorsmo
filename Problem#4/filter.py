@@ -1,3 +1,7 @@
+''' Name: Brady Korsmo
+    Date: Thursday @2'''
+
+
 def process_and_print(input_string):
       # Split into separate strings
     new = input_string.split()

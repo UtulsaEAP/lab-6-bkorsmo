@@ -1,3 +1,7 @@
+''' Name: Brady Korsmo
+    Date: Thursday @2'''
+
+
 def check_palindrome(user_input):
  #type your code here
     checker = user_input[::-1]

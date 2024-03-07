@@ -1,3 +1,7 @@
+''' Name: Brady Korsmo
+    Date: Thursday @2'''
+
+
 def process_user_contacts(user_input):
     
     user_contacts = user_input.split(' ')

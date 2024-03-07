@@ -1,3 +1,7 @@
+''' Name: Brady Korsmo
+    Date: Thursday @2'''
+
+
 def calculate_car_wash_price(service_choice1, service_choice2):
     services = {'Air freshener': 1, 'Rain repellent': 2, 'Tire shine': 2, 'Wax': 3, 'Vacuum': 5}
     base_wash = 10

@@ -1,3 +1,7 @@
+''' Name: Brady Korsmo
+    Date: Thursday @2'''
+
+
 def filter_and_print_range(input_list, min_val, max_val):
     #write your code here
     
