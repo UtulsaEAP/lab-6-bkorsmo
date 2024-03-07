@@ -1,12 +1,22 @@
 def process_and_print(input_string):
       # Split into separate strings
+    new = input_string.split()
 
     # Convert strings to integers and filter out negative values
-    input_data = 
+    new1 = list(map(int, new))
 
+    negatives = list(filter(lambda n: n<0, new1))
     # Sort integers in reverse order
-  
+
+    negatives.sort(reverse=True)
+
+
+
+
+    
     # Print sorted integers
+
+    print(' '.join(map(str, negatives)))
     
 
 if __name__ == "__main__":
